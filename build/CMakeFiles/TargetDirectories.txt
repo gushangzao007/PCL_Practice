@@ -1,0 +1,4 @@
+/home/peter/Projects/PclTest/build/CMakeFiles/Test1.dir
+/home/peter/Projects/PclTest/build/CMakeFiles/visualizor.dir
+/home/peter/Projects/PclTest/build/CMakeFiles/edit_cache.dir
+/home/peter/Projects/PclTest/build/CMakeFiles/rebuild_cache.dir
